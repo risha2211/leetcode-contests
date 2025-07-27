@@ -1,2 +1,10 @@
 # leetcode-contests
-My thought process as I solve DSA problems in LC contests. I’ve included logic breakdowns, edge cases, failed approaches, and the final code that eventually passed. These are problems I was able to solve within the contest duration, and is not a collection of all the DSA problems I've ever solved.
+
+| Contest       | Date        | Problem                                                                 | Difficulty | Contest Rank |
+|---------------|-------------|--------------------------------------------------------------------------|------------|---------------|
+| Weekly 460    | Jul/27/2025 | [Maximum Median Sum](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/) | Easy       | 357           |
+|               |             | [Max Subsequences After Inserting](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/) | Medium     |               |
+|               |             | [Minimum Jumps](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/) | Medium     |               |
+
+
+
